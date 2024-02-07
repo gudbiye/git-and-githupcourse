@@ -1,0 +1,7 @@
+git anit
+git add <file>
+git add .
+git rm --cached <file>
+git log  (you will see changes happened)
+git status
+git reset <hash> --soft
